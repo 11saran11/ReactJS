@@ -75,3 +75,10 @@ ADD THIS TO BABELRC
 {
     "presets":["@babel/preset-env", "@babel/preset-react"]
 }
+
+Step 10:
+cmd>npm install --save-dev @babel/preset-react
+----------------------------------------------------------------------------------------------------------------------------------------
+COMPONENT BASED:
+run cmd>npx create-react-app my-app
+
